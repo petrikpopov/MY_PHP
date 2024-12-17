@@ -2,3 +2,4 @@ Petro:$2y$12$1jLPo7a3rjbNByhaASgN5eYcoPeuF4qyK7s2g7r/4Ap4JGOx8wgCS
 Dima:$2y$12$tq6RNOr8tDGJQ8Va9GWOMuFZOI/eBxk98TtHokpHlcBhhzpbNiHyy
 Doma:$2y$12$SwqzUkoHsRKmNK/61kGIdOJoSoMgMy78AqgJzfKSVofi3LwW0ccQa
 Anton:$2y$12$IYYpHHGtPU/Lvi3jMnSsx.oySP7tW9DGPgZeGtZSB8ztnB6V9gkpu
+Ivanel:$2y$12$QSTIzFAwtfObAIe2lBO5BuSjXtOXhrsCZ0LCYrDdlTBub/ot/Jv9C
